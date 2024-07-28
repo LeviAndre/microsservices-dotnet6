@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\restauranteservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\restauranteservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\http\\interfaces\\iitemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\http\\interfaces\\iitemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\http\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\http\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\itemservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\itemservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestauranteService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestauranteService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T22:29:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemService.csproj",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\ItemService.csproj",
+              "RelativeDocumentMoniker": "ItemService\\ItemService.csproj",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\ItemService.csproj",
+              "RelativeToolTip": "ItemService\\ItemService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T22:25:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestauranteService.csproj",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\RestauranteService.csproj",
+              "RelativeDocumentMoniker": "RestauranteService\\RestauranteService.csproj",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\RestauranteService.csproj",
+              "RelativeToolTip": "RestauranteService\\RestauranteService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T22:24:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "ItemService\\Controllers\\RestauranteController.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "ItemService\\Controllers\\RestauranteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:22:24.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ItemService\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ItemService\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:22:21.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\appsettings.json",
+              "RelativeDocumentMoniker": "RestauranteService\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\appsettings.json",
+              "RelativeToolTip": "RestauranteService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T22:18:43.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ItemService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ItemService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T22:18:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\appsettings.json",
+              "RelativeDocumentMoniker": "ItemService\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\appsettings.json",
+              "RelativeToolTip": "ItemService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T22:18:16.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItemServiceHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Http\\Interfaces\\IItemServiceHttpClient.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\Http\\Interfaces\\IItemServiceHttpClient.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Http\\Interfaces\\IItemServiceHttpClient.cs",
+              "RelativeToolTip": "RestauranteService\\Http\\Interfaces\\IItemServiceHttpClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:12:34.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemServiceHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Http\\ItemServiceHttpClient.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\Http\\ItemServiceHttpClient.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Http\\ItemServiceHttpClient.cs",
+              "RelativeToolTip": "RestauranteService\\Http\\ItemServiceHttpClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:13:43.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Program.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Program.cs",
+              "RelativeToolTip": "RestauranteService\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:07:30.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\Controllers\\RestauranteController.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "RestauranteService\\Controllers\\RestauranteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:58:05.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
