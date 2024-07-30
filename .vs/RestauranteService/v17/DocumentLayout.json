@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\restauranteservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\appsettings.json",
               "RelativeDocumentMoniker": "RestauranteService\\appsettings.json",
@@ -134,7 +134,8 @@
               "RelativeToolTip": "RestauranteService\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-28T22:18:43.986Z"
+              "WhenOpened": "2024-07-28T22:18:43.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -186,13 +187,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Program.cs",
               "RelativeDocumentMoniker": "RestauranteService\\Program.cs",
               "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Program.cs",
               "RelativeToolTip": "RestauranteService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T22:07:30.5Z",
               "EditorCaption": ""
