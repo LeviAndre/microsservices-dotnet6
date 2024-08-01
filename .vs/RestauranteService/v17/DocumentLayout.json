@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\rabbitmqclient\\rabbitmqsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\rabbitmqclient\\rabbitmqsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\rabbitmqclient\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\rabbitmqclient\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\profiles\\itemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\profiles\\itemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\itemservice\\eventproccessor\\eventproccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +51,8 @@
       "RelativeMoniker": "D:0:0:{1F7C0D9E-8348-4625-A6AF-9C5A15C3C180}|ItemService\\ItemService.csproj|solutionrelative:itemservice\\eventproccessor\\interfaces\\ieventproccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\rabbitmqclient\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\rabbitmqclient\\rabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\rabbitmqclient\\interfaces\\irabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\rabbitmqclient\\interfaces\\irabbitmqclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|c:\\users\\andre.levi\\documents\\repos\\microsservices-dotnet6\\restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A099A8F2-0C69-47EC-835E-C0F2C1990877}|RestauranteService\\RestauranteService.csproj|solutionrelative:restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +70,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Dockerfile",
+              "RelativeDocumentMoniker": "RestauranteService\\Dockerfile",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Dockerfile",
+              "RelativeToolTip": "RestauranteService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T02:06:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Dockerfile",
+              "RelativeDocumentMoniker": "ItemService\\Dockerfile",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Dockerfile",
+              "RelativeToolTip": "ItemService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T02:06:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Program.cs",
+              "RelativeDocumentMoniker": "ItemService\\Program.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Program.cs",
+              "RelativeToolTip": "ItemService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:43:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemProfile.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Profiles\\ItemProfile.cs",
+              "RelativeDocumentMoniker": "ItemService\\Profiles\\ItemProfile.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\Profiles\\ItemProfile.cs",
+              "RelativeToolTip": "ItemService\\Profiles\\ItemProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:41:21.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\appsettings.json",
+              "RelativeDocumentMoniker": "ItemService\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\appsettings.json",
+              "RelativeToolTip": "ItemService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T01:40:03.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EventProccessor.cs",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\EventProccessor\\EventProccessor.cs",
               "RelativeDocumentMoniker": "ItemService\\EventProccessor\\EventProccessor.cs",
               "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\EventProccessor\\EventProccessor.cs",
               "RelativeToolTip": "ItemService\\EventProccessor\\EventProccessor.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvyQAAAANAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T20:46:31.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEventProccessor.cs",
-              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
-              "RelativeDocumentMoniker": "ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
-              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
-              "RelativeToolTip": "ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T20:42:59.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RabbitMqSubscriber.cs",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\RabbitMqClient\\RabbitMqSubscriber.cs",
               "RelativeDocumentMoniker": "ItemService\\RabbitMqClient\\RabbitMqSubscriber.cs",
               "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\RabbitMqClient\\RabbitMqSubscriber.cs",
               "RelativeToolTip": "ItemService\\RabbitMqClient\\RabbitMqSubscriber.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T20:22:01.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Program.cs",
               "RelativeDocumentMoniker": "RestauranteService\\Program.cs",
@@ -102,13 +174,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\appsettings.json",
               "RelativeDocumentMoniker": "RestauranteService\\appsettings.json",
               "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\appsettings.json",
               "RelativeToolTip": "RestauranteService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-30T16:33:24.471Z",
               "EditorCaption": ""
@@ -116,19 +188,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "RestauranteService\\Controllers\\RestauranteController.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "RestauranteService\\Controllers\\RestauranteController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:58:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RabbitMqClient.cs",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
               "RelativeDocumentMoniker": "RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
               "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
               "RelativeToolTip": "RestauranteService\\RabbitMqClient\\RabbitMqClient.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA5wCQAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T16:30:01.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "IEventProccessor.cs",
+              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
+              "RelativeDocumentMoniker": "ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
+              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
+              "RelativeToolTip": "ItemService\\EventProccessor\\Interfaces\\IEventProccessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T20:42:59.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IRabbitMqClient.cs",
               "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\RabbitMqClient\\Interfaces\\IRabbitMqClient.cs",
               "RelativeDocumentMoniker": "RestauranteService\\RabbitMqClient\\Interfaces\\IRabbitMqClient.cs",
@@ -136,21 +234,7 @@
               "RelativeToolTip": "RestauranteService\\RabbitMqClient\\Interfaces\\IRabbitMqClient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:28:09.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestauranteController.cs",
-              "DocumentMoniker": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Controllers\\RestauranteController.cs",
-              "RelativeDocumentMoniker": "RestauranteService\\Controllers\\RestauranteController.cs",
-              "ToolTip": "C:\\Users\\andre.levi\\Documents\\repos\\microsservices-dotnet6\\RestauranteService\\Controllers\\RestauranteController.cs",
-              "RelativeToolTip": "RestauranteService\\Controllers\\RestauranteController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAqwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T21:58:05.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T16:28:09.464Z"
             }
           ]
         }
