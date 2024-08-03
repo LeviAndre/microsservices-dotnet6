@@ -23,7 +23,6 @@ builder.Services.AddScoped<IRestauranteRepository, RestauranteRepository>();
 builder.Services.AddSingleton<IRabbitMqClient, RabbitMqClient>();
 
 //HTTP CLIENTS
-builder.Services.AddHttpClient<IItemServiceHttpClient, ItemServiceHttpClient>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

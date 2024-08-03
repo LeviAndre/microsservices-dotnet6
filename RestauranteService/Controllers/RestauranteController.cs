@@ -14,7 +14,6 @@ public class RestauranteController : ControllerBase
 {
     private readonly IRestauranteRepository _repository;
     private readonly IMapper _mapper;
-    private IItemServiceHttpClient _itemServiceHttpClient;
     private IRabbitMqClient _rabbitMqClient;
 
     public RestauranteController(
@@ -24,7 +23,6 @@ public class RestauranteController : ControllerBase
     {
         _repository = repository;
         _mapper = mapper;
-        _itemServiceHttpClient = itemServiceHttpClient;
         _rabbitMqClient = rabbitMqClient;
     }
 
@@ -57,8 +55,6 @@ public class RestauranteController : ControllerBase
         _repository.SaveChanges();
 
         var restauranteReadDto = _mapper.Map<RestauranteReadDto>(restaurante);
-
-        //_itemServiceHttpClient.AdicionaRestaurante(restauranteReadDto);
 
         _rabbitMqClient.PublicarRestaurante(restauranteCreateDto);
 

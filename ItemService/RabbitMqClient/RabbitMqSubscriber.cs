@@ -35,8 +35,10 @@ namespace ItemService.RabbitMqClient
 
             consumer.Received += (ModuleHandle, ea) =>
             {
+                Console.WriteLine(ea.Body);
                 ReadOnlyMemory<byte> body = ea.Body;
                 string? message = Encoding.UTF8.GetString(body.ToArray());
+                Console.WriteLine(message);
 
                 _eventProccessor.Proccess(message);
             };

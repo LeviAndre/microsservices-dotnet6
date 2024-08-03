@@ -18,8 +18,6 @@ namespace ItemService.EventProccessor
             _scopeFactory = scopeFactory;
         }
 
-
-
         public void Proccess(string message)
         {
             using var scope = _scopeFactory.CreateScope();
@@ -28,9 +26,13 @@ namespace ItemService.EventProccessor
 
             RestauranteReadDto restauranteReadDto = JsonSerializer.Deserialize<RestauranteReadDto>(message);
 
-            Restaurante restaurante = _mapper.Map<Restaurante>(restauranteReadDto); 
+            Console.WriteLine(restauranteReadDto);
 
-            if(itemRepository.RestauranteExiste(restaurante.Id))
+            Restaurante restaurante = _mapper.Map<Restaurante>(restauranteReadDto);
+
+            Console.WriteLine(restaurante);
+
+            if (itemRepository.RestauranteExiste(restaurante.Id))
             {
                 itemRepository.CreateRestaurante(restaurante);
                 itemRepository.SaveChanges();
