@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata: 
+  name: restaurante-deployment
+  labels:
+    app: restaurante-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: restaurante-api
+  template:
+    metadata:
+      labels:
+        app: restaurante-api
+    spec:
+      containers:
+        - name: restaurante-api
+          image: 024848465353.dkr.ecr.us-east-1.amazonaws.com/restauranteservice
+          ports:
+            - containerPort: 80
